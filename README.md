@@ -11,8 +11,9 @@
 </div>
 
 ###
-<div align="center">![LeetCode Stats](https://leetcode.card.workers.dev/seabass?theme=dark&font=source_code_pro&extension=activity)</div>
-
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/seabass?theme=dark&font=source_code_pro&extension=activity" alt="LeetCode Stats"/>
+</div>
 ###
 
 <h1 align="center">Hey I'm XYZ</h1>
