@@ -12,7 +12,7 @@
 
 ###
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/seabass?theme=dark&font=source_code_pro&extension=activity" alt="LeetCode Stats"/>
+  <img src="https://leetcode.card.workers.dev/seabass?theme=dark&font=source_code_pro&extension=activity"/>
 </div>
 
 <h1 align="center">Hey I'm XYZ</h1>
