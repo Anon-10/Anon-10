@@ -11,6 +11,9 @@
 </div>
 
 ###
+![LeetCode Stats](https://leetcode.card.workers.dev/seabass?theme=dark&font=source_code_pro&extension=activity)
+
+###
 
 <h1 align="center">Hey I'm XYZ</h1>
 
