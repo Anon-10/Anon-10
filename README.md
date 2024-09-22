@@ -11,7 +11,7 @@
 </div>
 
 ###
-![LeetCode Stats](https://leetcode.card.workers.dev/seabass?theme=dark&font=source_code_pro&extension=activity)
+<div align="center">![LeetCode Stats](https://leetcode.card.workers.dev/seabass?theme=dark&font=source_code_pro&extension=activity)</div>
 
 ###
 
