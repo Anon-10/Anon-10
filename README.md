@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">CS Undergrad @ TIET</p>
-
-###
-
 <br clear="both">
 
 <img align="right" height="300" src="https://media.giphy.com/media/fgxI1m3ZGSPh6/giphy.gif?cid=790b7611z5fuwwcup6mi0myxewjy6x066jmdkcxmnj7k38r1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
