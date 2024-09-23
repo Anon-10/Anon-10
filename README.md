@@ -5,7 +5,7 @@
 
 ###
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/seabass?theme=dark&font=baloo&extension=activity" />
+  <img height = "200" src="https://leetcode.card.workers.dev/seabass?theme=dark&font=baloo&extension=activity" />
 </div>
 
 <div align="center">
